@@ -10,4 +10,9 @@
 
 밍다 구속
 >>>>>>> 54de83f1e21cfb0628c8aca613e45cb3e656c572
+<<<<<<< Updated upstream
 >>>>>>> e0e07277c417df27a1ed1718c43d9f40592a824e
+=======
+
+밍다 다시 구속
+>>>>>>> Stashed changes
